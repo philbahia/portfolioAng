@@ -1,0 +1,38 @@
+/*Estilo navbar*/
+.navbar.navbar-expand-lg.bg-body-secondary {
+    background-color: #130a91 !important;
+
+}
+
+
+i.fa-brands.fa-twitter.fa-lg,
+i.fa-brands.fa-facebook-f.fa-lg,
+i.fa-brands.fa-linkedin.fa-lg,
+i.fa-solid.fa-user.fa-lg,
+i.fa-solid.fa-user-lock.fa-lg {
+    color: #fff;
+}
+
+i.fa-brands.fa-twitter.fa-lg:hover {
+    color: #0000ff;
+}
+
+i.fa-brands.fa-facebook-f.fa-lg:hover {
+    color: #0000ff;
+}
+
+i.fa-brands.fa-linkedin.fa-lg:hover {
+    color: #ff0000;
+}
+
+i.fa-solid.fa-user-lock.fa-lg:hover {
+    color: #ffff00;
+}
+
+.list-group {
+
+    --bs-list-group-bg: transparent;
+    --bs-list-group-border-color: none;
+}
+
+/*fin barra navbar*/
