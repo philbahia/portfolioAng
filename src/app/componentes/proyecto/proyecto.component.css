@@ -3,4 +3,5 @@ section.proyecto {
     background-repeat: no-repeat;
     background-size: 100%;
     color: #fff;
+    display: flex;
 }

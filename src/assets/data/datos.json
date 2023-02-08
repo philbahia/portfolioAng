@@ -1,0 +1,38 @@
+{
+    "nombre": "Felipe",
+    "apellido": "Acosta",
+    "profesion": "Full Stack Developer Jr.",
+    "detalle": "Probando .....",
+    "experiencia": [
+        {
+            "empresa": "Empresa 1",
+            "posicion": "empleado",
+            "pin": "1990",
+            "pout": "1992"
+        },
+        {
+            "empresa": "Empresa 2",
+            "posicion": "empleado",
+            "pin": "1992",
+            "pout": "1993"
+        }
+    ],
+    "educacion": [
+        {
+            "escuela": "EET N 1",
+            "titulo": "Ciclo Secundario"
+        },
+        {
+            "escuela": "UNS",
+            "titulo": "Ingenieria Computacion"
+        },
+        {
+            "escuela": "UNS",
+            "titulo": "Licenciatura Matematica"
+        },
+        {
+            "escuela": "UNS",
+            "titulo": "TUSEII"
+        }
+    ]
+}
