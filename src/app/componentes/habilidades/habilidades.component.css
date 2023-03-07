@@ -1,6 +1,5 @@
 section.habilidad {
-    background-image: url(/assets/img/pexels-johannes-plenio-1103970.jpg);
-    background-repeat: no-repeat;
+    background-color: rgb(68, 61, 129);
     background-size: 100%;
     color: #fff;
 }
